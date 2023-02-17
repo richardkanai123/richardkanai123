@@ -40,13 +40,6 @@
 <p>💞️Looking to collaborate on projects and tasks related to front-end web dev, Javascript and React.</p>
 
 
-<br/>
-<p> I also have great interest in Transportation and Urban Commuting Services.</p>
-
-
-
-
-
 <!---
 richardkanai123/richardkanai123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

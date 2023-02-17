@@ -10,13 +10,10 @@
 </div>
 
 <div align="center">
-  <h3>Front-end Web Developer </h3>
+  <h3>:man_technologist: I am a frontend web developer currently based in Kenya.</h3>
 <img src="https://komarev.com/ghpvc/?username=richardkanai123&style=flat-square&color=blue" alt=""/>
  </div>
- 
- :man_technologist: I am a frontend web developer currently based in Kenya.
- 
- 
+  
 ### 👷‍♂️ Languages and Tools
  <div alighn="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;

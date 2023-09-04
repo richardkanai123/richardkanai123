@@ -13,7 +13,8 @@
   <h3>:man_technologist: I am a frontend web developer currently based in Kenya.</h3>
 <img src="https://komarev.com/ghpvc/?username=richardkanai123&style=flat-square&color=blue" alt=""/>
  </div>
-## 👷‍♂️ Languages and Tools
+
+👷‍♂️**_Languages and Tools_**
  <div align="center green ">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;

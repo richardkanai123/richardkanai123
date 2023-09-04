@@ -1,4 +1,3 @@
-
 <h1 id="header"> 👋 Hi, I’m Richard Kanai🙋‍♂️</h1>
 <div id="badges" style={{
   text-align:"center"
@@ -10,13 +9,11 @@
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white"  alt="gmail Badge"/>
   </a>
 </div>
-
 <div align="center">
   <h3>:man_technologist: I am a frontend web developer currently based in Kenya.</h3>
 <img src="https://komarev.com/ghpvc/?username=richardkanai123&style=flat-square&color=blue" alt=""/>
  </div>
-  
-### 👷‍♂️ Languages and Tools
+## 👷‍♂️ Languages and Tools
  <div align="center green ">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -35,8 +32,6 @@
 <p>👀 I’m interested in web development 🌐, video games(simulations)🎮, Transportation (Railway and Urban transit)🚇🚐🚍  and developing reliable digital solutions</p>
 <p>🌱 I’m currently learning react and later react-native.✔</p>
 <p>💞️Looking to collaborate on projects and tasks related to front-end web dev, Javascript and React.</p>
-
-
 <!---
 richardkanai123/richardkanai123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

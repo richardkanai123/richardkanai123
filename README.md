@@ -31,7 +31,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardkanai123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <p>👀 I’m interested in web development 🌐, video games(simulations)🎮, Transportation (Railway and Urban transit)🚇🚐🚍  and developing reliable digital solutions</p>
-<p>🌱 I’m currently learning react and later react-native.✔</p>
+<p>🌱 I’m currently learning advanced react and react-native.✔</p>
 <p>💞️Looking to collaborate on projects and tasks related to front-end web dev, Javascript and React.</p>
 <!---
 richardkanai123/richardkanai123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

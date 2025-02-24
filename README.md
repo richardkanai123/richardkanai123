@@ -10,7 +10,7 @@
   </a>
 </div>
 <div align="center">
-  <h3>:man_technologist: I am a frontend web developer currently based in Kenya.</h3>
+  <h3>:man_technologist: I am a frontend (REACT) web developer currently based in Kenya.</h3>
 <img src="https://komarev.com/ghpvc/?username=richardkanai123&style=flat-square&color=blue" alt=""/>
  </div>
 
